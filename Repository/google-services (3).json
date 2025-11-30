@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "794741397690",
+    "project_id": "rentmanager-c1053",
+    "storage_bucket": "rentmanager-c1053.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794741397690:android:9355e427d12e8553e30a83",
+        "android_client_info": {
+          "package_name": "com.example.rentmanager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzg8sDfgYUOGpsQ4kX1eRPR_OncftQxdI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
